@@ -1,3 +1,3 @@
-# Parallax-Project
+# Parallax-efect
 
-Um projeto parallax feito para fins de estudo
+Um projeto simples para fins de estudo, fazendo um projeto com o efeito parallax.
